@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<rules>
+  <rule name="Синоптика по срокам" ctrltime="600" period="10800" depth="2880" format="3" path="C:\Report" stream="4" source="6" summaryreport="1" timeutc="1" State="1">
+    <DayShedule RunDelays="5" LastRun="2016-09-24 11:04:52" RunTime="1899-12-30 08:20:00" Days="1"/>
+    <param>
+      <TQEServer connection="HTTP-127.0.0.1:29320">
+        <station id="29998">
+          <series code="12101" hash="795976906"/>
+        </station>
+      </TQEServer>
+    </param>
+    <param>
+      <TQEServer connection="HTTP-127.0.0.1:29320">
+        <station id="30348">
+          <series code="12101" hash="795976906"/>
+        </station>
+      </TQEServer>
+    </param>
+    <param>
+      <TQEServer connection="HTTP-127.0.0.1:29320">
+        <station id="30356">
+          <series code="12101" hash="795976906"/>
+        </station>
+      </TQEServer>
+    </param>
+    <param>
+      <TQEServer connection="HTTP-127.0.0.1:29320">
+        <station id="30433">
+          <series code="12101" hash="795976906"/>
+        </station>
+      </TQEServer>
+    </param>
+    <param>
+      <TQEServer connection="HTTP-127.0.0.1:29320">
+        <station id="30455">
+          <series code="12101" hash="795976906"/>
+        </station>
+      </TQEServer>
+    </param>
+    <param>
+      <TQEServer connection="HTTP-127.0.0.1:29320">
+        <station id="30456">
+          <series code="12101" hash="795976906"/>
+        </station>
+      </TQEServer>
+    </param>
+    <param>
+      <TQEServer connection="HTTP-127.0.0.1:29320">
+        <station id="30457">
+          <series code="12101" hash="795976906"/>
+        </station>
+      </TQEServer>
+    </param>
+    <param>
+      <TQEServer connection="HTTP-127.0.0.1:29320">
+        <station id="30547">
+          <series code="12103" hash="-1185861913"/>
+        </station>
+      </TQEServer>
+    </param>
+    <param>
+      <TQEServer connection="HTTP-127.0.0.1:29320">
+        <station id="30934">
+          <series code="12101" hash="795976906"/>
+        </station>
+      </TQEServer>
+    </param>
+    <param>
+      <TQEServer connection="HTTP-127.0.0.1:29320">
+        <station id="30925">
+          <series code="12101" hash="795976906"/>
+        </station>
+      </TQEServer>
+    </param>
+    <param>
+      <TQEServer connection="HTTP-127.0.0.1:29320">
+        <station id="30924">
+          <series code="12101" hash="795976906"/>
+        </station>
+      </TQEServer>
+    </param>
+    <param>
+      <TQEServer connection="HTTP-127.0.0.1:29320">
+        <station id="30726">
+          <series code="12101" hash="795976906"/>
+        </station>
+      </TQEServer>
+    </param>
+    <param>
+      <TQEServer connection="HTTP-127.0.0.1:29320">
+        <station id="30729">
+          <series code="12101" hash="795976906"/>
+        </station>
+      </TQEServer>
+    </param>
+    <param>
+      <TQEServer connection="HTTP-127.0.0.1:29320">
+        <station id="30731">
+          <series code="12101" hash="795976906"/>
+        </station>
+      </TQEServer>
+    </param>
+    <param>
+      <TQEServer connection="HTTP-127.0.0.1:29320">
+        <station id="30650">
+          <series code="12101" hash="795976906"/>
+        </station>
+      </TQEServer>
+    </param>
+    <param>
+      <TQEServer connection="HTTP-127.0.0.1:29320">
+        <station id="30733">
+          <series code="12101" hash="795976906"/>
+        </station>
+      </TQEServer>
+    </param>
+    <param>
+      <TQEServer connection="HTTP-127.0.0.1:29320">
+        <station id="30635">
+          <series code="12101" hash="795976906"/>
+        </station>
+      </TQEServer>
+    </param>
+    <param>
+      <TQEServer connection="HTTP-127.0.0.1:29320">
+        <station id="30834">
+          <series code="12101" hash="795976906"/>
+        </station>
+      </TQEServer>
+    </param>
+    <param>
+      <TQEServer connection="HTTP-127.0.0.1:29320">
+        <station id="30915">
+          <series code="12101" hash="795976906"/>
+        </station>
+      </TQEServer>
+    </param>
+    <param>
+      <TQEServer connection="HTTP-127.0.0.1:29320">
+        <station id="30824">
+          <series code="12101" hash="795976906"/>
+        </station>
+      </TQEServer>
+    </param>
+    <param>
+      <TQEServer connection="HTTP-127.0.0.1:29320">
+        <station id="30811">
+          <series code="12101" hash="795976906"/>
+        </station>
+      </TQEServer>
+    </param>
+    <param>
+      <TQEServer connection="HTTP-127.0.0.1:29320">
+        <station id="30802">
+          <series code="12101" hash="795976906"/>
+        </station>
+      </TQEServer>
+    </param>
+    <param>
+      <TQEServer connection="HTTP-127.0.0.1:29320">
+        <station id="30741">
+          <series code="12101" hash="795976906"/>
+        </station>
+      </TQEServer>
+    </param>
+    <param>
+      <TQEServer connection="HTTP-127.0.0.1:29320">
+        <station id="30745">
+          <series code="12101" hash="795976906"/>
+        </station>
+      </TQEServer>
+    </param>
+    <param>
+      <TQEServer connection="HTTP-127.0.0.1:29320">
+        <station id="30739">
+          <series code="12101" hash="795976906"/>
+        </station>
+      </TQEServer>
+    </param>
+    <param>
+      <TQEServer connection="HTTP-127.0.0.1:29320">
+        <station id="30738">
+          <series code="12101" hash="795976906"/>
+        </station>
+      </TQEServer>
+    </param>
+    <param>
+      <TQEServer connection="HTTP-127.0.0.1:29320">
+        <station id="30554">
+          <series code="12101" hash="795976906"/>
+        </station>
+      </TQEServer>
+    </param>
+    <param>
+      <TQEServer connection="HTTP-127.0.0.1:29320">
+        <station id="30806">
+          <series code="12101" hash="795976906"/>
+        </station>
+      </TQEServer>
+    </param>
+    <param>
+      <TQEServer connection="HTTP-127.0.0.1:29320">
+        <station id="30823">
+          <series code="12101" hash="795976906"/>
+        </station>
+      </TQEServer>
+    </param>
+    <param>
+      <TQEServer connection="HTTP-127.0.0.1:29320">
+        <station id="30916">
+          <series code="12101" hash="795976906"/>
+        </station>
+      </TQEServer>
+    </param>
+    <param>
+      <TQEServer connection="HTTP-127.0.0.1:29320">
+        <station id="30837">
+          <series code="12101" hash="795976906"/>
+        </station>
+      </TQEServer>
+    </param>
+    <param>
+      <TQEServer connection="HTTP-127.0.0.1:29320">
+        <station id="30911">
+          <series code="12101" hash="795976906"/>
+        </station>
+      </TQEServer>
+    </param>
+    <param>
+      <TQEServer connection="HTTP-127.0.0.1:29320">
+        <station id="30825">
+          <series code="12101" hash="795976906"/>
+        </station>
+      </TQEServer>
+    </param>
+    <param>
+      <TQEServer connection="HTTP-127.0.0.1:29320">
+        <station id="30826">
+          <series code="12101" hash="795976906"/>
+        </station>
+      </TQEServer>
+    </param>
+    <param>
+      <TQEServer connection="HTTP-127.0.0.1:29320">
+        <station id="30822">
+          <series code="12101" hash="795976906"/>
+        </station>
+      </TQEServer>
+    </param>
+    <param>
+      <TQEServer connection="HTTP-127.0.0.1:29320">
+        <station id="30829">
+          <series code="12101" hash="795976906"/>
+        </station>
+      </TQEServer>
+    </param>
+    <param>
+      <TQEServer connection="HTTP-127.0.0.1:29320">
+        <station id="30649">
+          <series code="12101" hash="795976906"/>
+        </station>
+      </TQEServer>
+    </param>
+    <param>
+      <TQEServer connection="HTTP-127.0.0.1:29320">
+        <station id="30636">
+          <series code="12101" hash="795976906"/>
+        </station>
+      </TQEServer>
+    </param>
+    <param>
+      <TQEServer connection="HTTP-127.0.0.1:29320">
+        <station id="30555">
+          <series code="12101" hash="795976906"/>
+        </station>
+      </TQEServer>
+    </param>
+    <param>
+      <TQEServer connection="HTTP-127.0.0.1:29320">
+        <station id="30643">
+          <series code="12101" hash="795976906"/>
+        </station>
+      </TQEServer>
+    </param>
+    <param>
+      <TQEServer connection="HTTP-127.0.0.1:29320">
+        <station id="7043">
+          <series code="13205" hash="-1334432274"/>
+        </station>
+      </TQEServer>
+    </param>
+    <param>
+      <TQEServer connection="HTTP-127.0.0.1:29320">
+        <station id="7047">
+          <series code="13205" hash="-1334432274"/>
+        </station>
+      </TQEServer>
+    </param>
+    <param>
+      <TQEServer connection="HTTP-127.0.0.1:29320">
+        <station id="7053">
+          <series code="13205" hash="-1334432274"/>
+        </station>
+      </TQEServer>
+    </param>
+    <param>
+      <TQEServer connection="HTTP-127.0.0.1:29320">
+        <station id="7060">
+          <series code="13205" hash="-1334432274"/>
+        </station>
+      </TQEServer>
+    </param>
+    <param>
+      <TQEServer connection="HTTP-127.0.0.1:29320">
+        <station id="7076">
+          <series code="13205" hash="-1334432274"/>
+        </station>
+      </TQEServer>
+    </param>
+    <param>
+      <TQEServer connection="HTTP-127.0.0.1:29320">
+        <station id="7128">
+          <series code="13205" hash="-1334432274"/>
+        </station>
+      </TQEServer>
+    </param>
+    <param>
+      <TQEServer connection="HTTP-127.0.0.1:29320">
+        <station id="7130">
+          <series code="13205" hash="-1334432274"/>
+        </station>
+      </TQEServer>
+    </param>
+  </rule>
+</rules>
