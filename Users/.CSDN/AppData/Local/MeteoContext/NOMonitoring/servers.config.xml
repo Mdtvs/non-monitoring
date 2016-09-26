@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<servers partialLoad="False">
+  <TQEServer name="Улан-Удэ" connection="HTTP-127.0.0.1:29320"/>
+</servers>
